@@ -179,7 +179,7 @@ puede;
 Para detectar cuál riesgo conviene mitigar primero se puede utilizar el “RPN”;
 en inglés, “Risk Priority Number”. 
 
-$$ RPN = Prob. de Ocurrencia X Factor de Severidad X (1 – Prob. de Detección)$$
+$$ RPN = Prob. de Ocurrencia * Factor de Severidad * (1 – Prob. de Detección)$$
 
 Siendo "Prob. de Ocurrencia": Probabilidad que ocurra ese evento; Factor de
 Severidad: Indicador del daño potencial que podría generar. (Valoración
