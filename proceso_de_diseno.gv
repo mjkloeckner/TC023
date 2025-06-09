@@ -1,0 +1,14 @@
+// https://graphviz.org/doc/infor/shapes.html
+
+digraph G {
+    rankdir=LR
+    node [ shape=box, fixedsize=true, width=1.05 ];
+
+    A [ label="Necesidad" ];
+    B [ label="Definición\nde Producto" ];
+    C [ label="Diseño\nde Producto" ];
+    D [ label="Verificación\n de Diseño" ];
+    E [ label="Validación\nde Diseño" ];
+
+    A-> B -> C -> D -> E;
+}
