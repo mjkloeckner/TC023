@@ -38,7 +38,21 @@ comportamiento iterativo de la metodología.
 
 #### Empatizar
 
-##### Mapas de Empatia
+##### Mapas de Empatía
+
+Es una herramienta que ayuda a sintetizar la información obtenida del usuario
+(en etapas previas, como entrevistas, o mediante observación, etc) de manera tal
+que resulte mas fácil identificar descubrimientos (insights) que no se obtienen
+solo con datos.
+
+La estructura típica de un mapa de empatía es:
+
+1. Dice
+2. Piensa
+3. Siente
+4. Hace
+5. Esfuerzos
+6. Necesidades
 
 ## Work Breakdown Structure (WBS)
 
