@@ -12,8 +12,20 @@ Se buscan satisfacer necesidades insatisfechas.
 
 Los requerimientos son la base de las especificaciones
 
-La suma de todos los requerimientos y las restricciones constituyen el alcance
-del proyecto
+### Propósito
+
+Se define primero el propósito, el cual es la razón de ser o el significado más
+profundo del proyecto.
+
+### Objetivo
+
+Es la meta concreta y tangible que se busca alcanzar, basada en el propósito.
+
+### Alcance
+
+Teniendo bien claro el propósito y el objetivo del proyecto, el alcance define
+los límites y fronteras del proyecto. Es la suma de todos los requerimientos y
+las restricciones.
 
 ## Pensamiento de Diseño (Design Thinking)
 
