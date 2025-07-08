@@ -422,3 +422,35 @@ Siendo "Prob. de Ocurrencia": Probabilidad que ocurra ese evento; Factor de
 Severidad: Indicador del daño potencial que podría generar. (Valoración
 subjetiva de 0 a 1) y Probabilidad de Detección: la probabilidad de detectar la
 ocurrencia del evento con anticipación.
+
+## Gestión Económica
+
+La gestión económica de un proyecto busca garantizar el uso eficiente de los
+recursos disponibles para cumplir con los objetivos dentro del alcance, tiempo y
+costo definidos. Es parte fundamental de la triple restricción:
+tiempo–alcance–costo.
+
+La elaboración de presupuestos es una de las actividades claves en la
+planificación de proyectos, ya que permite anticipar recursos, justificar
+decisiones y evaluar la viabilidad.
+
+Los costos se pueden clasificar en directo e indirectos
+
+### Costos directos
+
+Los costos directos son aquellos que se pueden asociar directamente con un
+producto, servicio o entregable del proyecto. Por ejemplo el hardware, las
+licencias de uso, los materiales para la instalación, etc.
+
+### Costos indirectos
+
+Los costos indirectos no se pueden asociar directamente a un entregable
+particular, pero son necesarios para que el proyecto se lleve a cabo. Por
+ejemplo, la mano de obra (programadores, instaladores), el mantenimiento
+preventivo, los costos de gestión o administración, etc.
+
+### Cost Breakdown Structure (CBS)
+
+El Cost Breakdown Structure (CBS) es la organización jerárquica de los costos
+del proyecto, alineada a los entregables y actividades del Work Breakdown
+Structure (WBS).
